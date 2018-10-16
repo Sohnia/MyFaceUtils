@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="label">
+    <file>transparent.jpg</file>
+  </qresource>
+  <qresource prefix="imageView">
+    <file>ai.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>ai.ico</file>
+  </qresource>
+  <qresource prefix="background">
+    <file>bg.jpg</file>
+  </qresource>
+</RCC>

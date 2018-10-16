@@ -1,0 +1,11 @@
+baidu-aip
+numpy
+pillow
+face_recognition
+opencv-python
+PyQt5
+pymysql
+dlib==19.7.0
+
+
+
